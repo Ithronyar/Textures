@@ -1,2 +1,2 @@
 # Test
-A collection of miscellanous 2-D and 3-D assets, such as models and textures.
+Dumping ground for textures that I've made over the years.
