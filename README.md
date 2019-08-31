@@ -1,1 +1,1 @@
-Experimental non-code project. Dumping ground for generic textures that I've made over the years.
+Everything in this project is free to use without restriction. Copy, edit, modify, whatever.
