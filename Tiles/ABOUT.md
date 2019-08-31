@@ -1,7 +1,7 @@
 Tileable surface textures.
 
-Map Types
-=========
+Texture Types
+=============
 Textures are split into multiple maps that can be used in shader materials as needed.
 
 * D: Diffuse color.
