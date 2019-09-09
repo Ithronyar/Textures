@@ -1,4 +1,4 @@
-Tileable surface textures.
+Tileable/seamless surface textures.
 
 Texture Types
 =============
